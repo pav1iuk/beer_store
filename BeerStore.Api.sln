@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerStore.Api", "BeerStore.Api.csproj", "{AE38B15E-C58F-4DDB-9540-5949F7D6A79F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE38B15E-C58F-4DDB-9540-5949F7D6A79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE38B15E-C58F-4DDB-9540-5949F7D6A79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE38B15E-C58F-4DDB-9540-5949F7D6A79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE38B15E-C58F-4DDB-9540-5949F7D6A79F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73E75E9B-16C8-4918-90D1-FE7DDFCF0AD7}
+	EndGlobalSection
+EndGlobal
