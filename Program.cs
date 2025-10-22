@@ -1,12 +1,15 @@
 using BeerStore.Api.Data;
+using BeerStore.Api.Data.EfCatalog;
+using BeerStore.Api.Data.Mapping;
 using BeerStore.Api.Data.Repositories;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Connection strings
-var ordersConn = builder.Configuration.GetConnectionString("OrdersDb");
-var catalogConn = builder.Configuration.GetConnectionString("CatalogDb");
+var ordersConn = builder.Configuration.GetConnectionString("beer_orders");
+var catalogConn = builder.Configuration.GetConnectionString("beer_catalog");
 
 // Register UnitOfWork as scoped
 builder.Services.AddScoped<IUnitOfWork>(sp => new UnitOfWork(ordersConn, catalogConn));
@@ -15,7 +18,9 @@ builder.Services.AddScoped<IUnitOfWork>(sp => new UnitOfWork(ordersConn, catalog
 builder.Services.AddScoped<IOrderRepository>(sp => sp.GetRequiredService<IUnitOfWork>().Orders);
 builder.Services.AddScoped<IProductRepository>(sp => sp.GetRequiredService<IUnitOfWork>().Products);
 builder.Services.AddScoped<ICategoryRepository>(sp => sp.GetRequiredService<IUnitOfWork>().Categories);
-
+builder.Services.AddDbContext<CatalogDbContext>(options =>
+    options.UseMySql(builder.Configuration.GetConnectionString("beer_catalog"), ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("beer_catalog"))));
+builder.Services.AddAutoMapper(typeof(CatalogProfile).Assembly);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>

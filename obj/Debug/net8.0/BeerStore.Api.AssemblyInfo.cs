@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BeerStore.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2cae716812d4062dfed6a3c1697d42fc09e1990")]
 [assembly: System.Reflection.AssemblyProductAttribute("BeerStore.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BeerStore.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
