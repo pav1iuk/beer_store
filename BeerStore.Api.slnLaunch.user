@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\BeerStore.ApiGateway\\BeerStore.ApiGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\BeerStore.OrderService\\BeerStore.OrderService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\BeerStore.ReviewService\\BeerStore.ReviewService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

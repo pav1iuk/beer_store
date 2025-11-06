@@ -1,0 +1,1172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58317DDD-6758-4B77-B3D8-CDA9C850C675}|..\\BeerStore.ApiGateway\\BeerStore.ApiGateway.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58317DDD-6758-4B77-B3D8-CDA9C850C675}|..\\BeerStore.ApiGateway\\BeerStore.ApiGateway.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58317DDD-6758-4B77-B3D8-CDA9C850C675}|..\\BeerStore.ApiGateway\\BeerStore.ApiGateway.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D348A9-D4B6-429E-92BE-F69061C36650}|..\\BeerStore.ReviewService\\BeerStore.ReviewService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.reviewservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\services\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\repositories\\dappercategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\repositories\\dapperproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D348A9-D4B6-429E-92BE-F69061C36650}|..\\BeerStore.ReviewService\\BeerStore.ReviewService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.reviewservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\validators\\productcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D348A9-D4B6-429E-92BE-F69061C36650}|..\\BeerStore.ReviewService\\BeerStore.ReviewService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.reviewservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D348A9-D4B6-429E-92BE-F69061C36650}|..\\BeerStore.ReviewService\\BeerStore.ReviewService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.reviewservice\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\mapping\\ordersprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\beerstore.orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\beerstore.catalogservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D348A9-D4B6-429E-92BE-F69061C36650}|..\\BeerStore.ReviewService\\BeerStore.ReviewService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.reviewservice\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\efcatalog\\migrations\\20251022223709_initial_catalog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\efcatalog\\migrations\\catalogdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\data\\ordersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\validators\\ordercreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\services\\catalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\repositories\\ef\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD45EF-9847-45DE-BDED-1BA161C2AE69}|..\\BeerStore.OrderService\\BeerStore.OrderService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.orderservice\\data\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\efcatalog\\catalogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\repositories\\ef\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\repositories\\ef\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\specifications\\productbycategoryspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\configurations\\productcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\mapping\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\mapping\\catalogprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\configurations\\productimageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\configurations\\productdetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\services\\icatalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\seed\\catalogseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\models\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\dtos\\productdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\repositories\\idapperproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\repositories\\idappercategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\repositories\\ef\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\repositories\\ef\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\repositories\\ef\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\generic\\dapperrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4725F9-5CFC-4E78-BF58-B62F9F216282}|..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj|c:\\users\\pavliuk\\source\\repos\\beerstore.catalogservice\\data\\generic\\idapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ReviewService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\BeerStore.ReviewService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ReviewService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\BeerStore.ReviewService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T11:22:43.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\BeerStore.ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\BeerStore.ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T00:18:19.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "..\\BeerStore.ApiGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ApiGateway\\ocelot.json",
+              "RelativeToolTip": "..\\BeerStore.ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAMwJUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T21:33:43.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:15:59.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Controllers\\CatalogController.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Controllers\\CatalogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:11:15.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:13:21.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:13:49.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T11:22:12.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T11:11:47.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Program.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:36:26.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ApiGateway\\Program.cs",
+              "RelativeToolTip": "..\\BeerStore.ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwDYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:34:25.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:17:11.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DapperProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\DapperProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Repositories\\DapperProductRepository.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\DapperProductRepository.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Repositories\\DapperProductRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:41:49.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DapperCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\DapperCategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Repositories\\DapperCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\DapperCategoryRepository.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Repositories\\DapperCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:41:37.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Program.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:37:17.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CatalogService.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Services\\CatalogService.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Services\\CatalogService.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Services\\CatalogService.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Services\\CatalogService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:45:04.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:17:17.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ReviewService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\BeerStore.ReviewService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ReviewService\\appsettings.json",
+              "RelativeToolTip": "..\\BeerStore.ReviewService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T21:38:25.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Data\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Data\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Data\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Data\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAawCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:17:05.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\appsettings.json",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T22:55:57.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\appsettings.json",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T22:56:25.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Validators\\ProductCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Validators\\ProductCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Validators\\ProductCreateDtoValidator.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Validators\\ProductCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:45:55.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BeerStore.CatalogService.csproj",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\BeerStore.CatalogService.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T22:32:17.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ReviewService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.ReviewService\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ReviewService\\Program.cs",
+              "RelativeToolTip": "..\\BeerStore.ReviewService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:38:11.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ReviewService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.ReviewService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ReviewService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "..\\BeerStore.ReviewService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:30:12.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrdersProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Mapping\\OrdersProfile.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Mapping\\OrdersProfile.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Mapping\\OrdersProfile.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Mapping\\OrdersProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:35:36.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Models\\Order.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:31:14.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BeerStore.OrderService.csproj",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\BeerStore.OrderService.csproj",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\BeerStore.OrderService.csproj",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\BeerStore.OrderService.csproj",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\BeerStore.OrderService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T12:02:03.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ReviewService\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.ReviewService\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.ReviewService\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "..\\BeerStore.ReviewService\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:24:25.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrdersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Data\\OrdersDbContext.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Data\\OrdersDbContext.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Data\\OrdersDbContext.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Data\\OrdersDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:21:45.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:44:13.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20251022223709_Initial_Catalog.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\EfCatalog\\Migrations\\20251022223709_Initial_Catalog.Designer.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\EfCatalog\\Migrations\\20251022223709_Initial_Catalog.Designer.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\EfCatalog\\Migrations\\20251022223709_Initial_Catalog.Designer.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\EfCatalog\\Migrations\\20251022223709_Initial_Catalog.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T00:04:09.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CatalogDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\EfCatalog\\Migrations\\CatalogDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\EfCatalog\\Migrations\\CatalogDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\EfCatalog\\Migrations\\CatalogDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\EfCatalog\\Migrations\\CatalogDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T00:04:29.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:42:31.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Models\\OrderItem.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:17:26.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Validators\\OrderCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Validators\\OrderCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Validators\\OrderCreateDtoValidator.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Validators\\OrderCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:34:36.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:33:45.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\DTOs\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\DTOs\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\DTOs\\OrderItemDto.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\DTOs\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:39:30.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\DTOs\\OrderCreateDto.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\DTOs\\OrderCreateDto.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\DTOs\\OrderCreateDto.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\DTOs\\OrderCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:39:03.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CatalogClient.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Services\\CatalogClient.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Services\\CatalogClient.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Services\\CatalogClient.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Services\\CatalogClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:31:42.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\EF\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Repositories\\EF\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\EF\\ProductRepository.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Repositories\\EF\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:41:15.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Data\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.OrderService\\Data\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.OrderService\\Data\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "..\\BeerStore.OrderService\\Data\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:16:54.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CatalogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\EfCatalog\\CatalogDbContext.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\EfCatalog\\CatalogDbContext.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\EfCatalog\\CatalogDbContext.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\EfCatalog\\CatalogDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:38:15.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\EF\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Repositories\\EF\\IAsyncRepository.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\EF\\IAsyncRepository.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Repositories\\EF\\IAsyncRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:40:31.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\EF\\EfRepository.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Repositories\\EF\\EfRepository.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\EF\\EfRepository.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Repositories\\EF\\EfRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:39:58.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductByCategorySpec.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Specifications\\ProductByCategorySpec.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Specifications\\ProductByCategorySpec.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Specifications\\ProductByCategorySpec.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Specifications\\ProductByCategorySpec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:45:49.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:37:12.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:35:37.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductCategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Configurations\\ProductCategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Configurations\\ProductCategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Configurations\\ProductCategoryConfiguration.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Configurations\\ProductCategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:36:57.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Mapping\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Mapping\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Mapping\\ProductProfile.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Mapping\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:44:01.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CatalogProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Mapping\\CatalogProfile.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Mapping\\CatalogProfile.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Mapping\\CatalogProfile.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Mapping\\CatalogProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:21:10.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductImageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Configurations\\ProductImageConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Configurations\\ProductImageConfiguration.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Configurations\\ProductImageConfiguration.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Configurations\\ProductImageConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:37:25.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProductDetailConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Configurations\\ProductDetailConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Configurations\\ProductDetailConfiguration.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Configurations\\ProductDetailConfiguration.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Configurations\\ProductDetailConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:37:19.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ICatalogService.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Services\\ICatalogService.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Services\\ICatalogService.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Services\\ICatalogService.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Services\\ICatalogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:45:35.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CatalogSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Seed\\CatalogSeeder.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Seed\\CatalogSeeder.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Seed\\CatalogSeeder.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Seed\\CatalogSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:44:51.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Models\\ProductImage.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:44:38.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Models\\ProductDetail.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Models\\ProductDetail.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Models\\ProductDetail.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Models\\ProductDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:44:38.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:44:34.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Models\\Product.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:44:30.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Models\\Category.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:44:26.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:42:58.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ProductDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\DTOs\\ProductDetailDto.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\DTOs\\ProductDetailDto.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\DTOs\\ProductDetailDto.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\DTOs\\ProductDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:42:50.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:42:32.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\DTOs\\PagedResult.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\DTOs\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\DTOs\\PagedResult.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\DTOs\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:42:15.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:42:10.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IDapperProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\IDapperProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Repositories\\IDapperProductRepository.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\IDapperProductRepository.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Repositories\\IDapperProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:42:04.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IDapperCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\IDapperCategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Repositories\\IDapperCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\IDapperCategoryRepository.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Repositories\\IDapperCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:41:48.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\EF\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Repositories\\EF\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\EF\\IProductRepository.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Repositories\\EF\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:40:44.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\EF\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Repositories\\EF\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\EF\\ICategoryRepository.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Repositories\\EF\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:40:40.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\EF\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Repositories\\EF\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Repositories\\EF\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Repositories\\EF\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:39:38.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IDapperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Generic\\IDapperRepository.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Generic\\IDapperRepository.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Generic\\IDapperRepository.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Generic\\IDapperRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:39:25.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DapperRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Generic\\DapperRepositoryBase.cs",
+              "RelativeDocumentMoniker": "..\\BeerStore.CatalogService\\Data\\Generic\\DapperRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Pavliuk\\source\\repos\\BeerStore.CatalogService\\Data\\Generic\\DapperRepositoryBase.cs",
+              "RelativeToolTip": "..\\BeerStore.CatalogService\\Data\\Generic\\DapperRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:38:58.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
